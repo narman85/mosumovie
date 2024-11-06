@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mosumovie/static/css/main.54139f64.css",
+    "main.js": "/mosumovie/static/js/main.340d1b66.js",
+    "index.html": "/mosumovie/index.html",
+    "main.54139f64.css.map": "/mosumovie/static/css/main.54139f64.css.map",
+    "main.340d1b66.js.map": "/mosumovie/static/js/main.340d1b66.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54139f64.css",
+    "static/js/main.340d1b66.js"
+  ]
+}
